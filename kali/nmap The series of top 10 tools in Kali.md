@@ -42,7 +42,7 @@
 
 ​        本演练针对nmap基础功能进行操作，熟练使用nmap指令进行主机、网络等扫描，发现活动的主机和端口等信息。
 
-`Tips:  Linux 的 shell 指令以及安装的软件一般都有相应 man 手册( 输入 man nmap )，或者通过 nmap --help 查看帮助选项。`
+> Tips:  Linux 的 shell 指令以及安装的软件一般都有相应 man 手册( 输入 man nmap )，或者通过 nmap --help 查看帮助选项。
 
 #### 扫描指定目标
 

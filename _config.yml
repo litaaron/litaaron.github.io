@@ -1,1 +1,10 @@
 theme: jekyll-theme-dinky
+title: Notebook of Span Codes
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - kali
+  - README.md
